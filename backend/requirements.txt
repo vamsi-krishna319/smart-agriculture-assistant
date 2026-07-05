@@ -10,7 +10,7 @@ sqlalchemy
 crewai
 crewai-tools
 
-google-generativeai
+google-genai
 groq
 
 langchain
