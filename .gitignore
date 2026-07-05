@@ -1,0 +1,27 @@
+
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.env
+
+# Database
+*.db
+
+# Uploaded Files
+uploads/
+
+# Generated Reports
+reports/
+
+# IDE
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
